@@ -1,0 +1,2 @@
+# jaqikacv-qrcode
+Min CV
